@@ -13,7 +13,8 @@ problem of all manual supermarket operation in order to enhance the operation
 of such supermarket.
 In this project, the software or system that can be used to aid all supermarkets
 that is still operating manually have been successfully developed.
-The software can be implementing in all types of supermarket
+The software can be implementing in all types of supermarket.
+
 Features:
 1. A password system that will be embedded into login page to increase the
 Security of the system.
